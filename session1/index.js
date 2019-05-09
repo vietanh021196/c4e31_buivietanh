@@ -51,7 +51,7 @@
 
 //loops: lặp
 
-for (let i = 0; i < 10; i++) { //++ là tăng i lên
-console.log(i);
-console.log("Hello")
-}
+// for (let i = 0; i < 10; i++) { //++ là tăng i lên
+// console.log(i);
+// console.log("Hello")
+// }
